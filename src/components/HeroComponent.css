@@ -14,12 +14,25 @@
 .hero-title
 {
     position: absolute;
-    top: 20%;
+    top: 10%;
     left: 35%;
     font-family: 'Lobster';
     transform: translate(-50%, -50%);
     color: rgb(255, 255, 255);
-    font-size: 5rem;
+    font-size: 5.5rem;
+    font-weight: bold;
+    text-align: left;
+    z-index: 999;
+}
+.hero-title-2
+{
+    position: absolute;
+    top: 25%;
+    left: 35%;
+    font-family: 'Lobster';
+    transform: translate(-80%, -50%);
+    color: rgb(255, 255, 255);
+    font-size: 5.5rem;
     font-weight: bold;
     text-align: left;
     z-index: 999;

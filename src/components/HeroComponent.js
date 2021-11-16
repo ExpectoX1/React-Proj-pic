@@ -11,7 +11,9 @@ function HeroComponent()
               </video>
               <div>
                 <h1 className="hero-title">
-                    Storing and Viewing Pictures Was Never Easier! </h1>
+                    Storing and Viewing Pictures </h1>
+                <h1 className="hero-title-2">
+                        Was Never Easier!</h1>
               </div> 
               
         </>
